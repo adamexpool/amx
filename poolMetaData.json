@@ -3,16 +3,5 @@
 "description": "Mexican Cardano Node",
 "ticker": "AMX",
 "homepage": "https://adamex.net"
- 
-  "info": 
-        "url_png_icon_64x64": "https://i.postimg.cc/Gh6hw2dz/istockphoto-1057617444-612x612.jpg; max 40kb",
-        "url_png_logo": "https://i.postimg.cc/Gh6hw2dz/istockphoto-1057617444-612x612.jpg; max 50kb",
-        "location": "Monterrey, Nuevo Leon",
-        "social": {
-            "twitter_handle": "Adamexpool",
-            "telegram_handle": "Adamexpool",
-            "facebook_handle": "Adamexpool",
-            "youtube_handle": "Adamexpool",
-            "discord_handle": "",
-            "VK": "",}
-     }
+}
+
